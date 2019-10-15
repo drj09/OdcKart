@@ -1,6 +1,7 @@
 # OdcKart - E-commerce website for selling books 
 
 Pre-View Link :- https://odckart.epizy.com
+Project Description : E-commerce Book Store Based on Business-to-Consumer aspect of e-commerce with a secure Payment Gateway. 3 tier architecture having database,host server,frontend site. Admin dashboard is also developed to manage e-commerce functions.  
 
 Project Name : ODCKART(E-Commerce Website)
 
@@ -11,7 +12,7 @@ Languages/Database	:	PHP, JavaScript, MySQL
 Libraries	:	Bootstrap, JQuery, Font Awesome, Google font APIs
 
 
-E-commerce Book Store Based on Business-to-Consumer aspect of e-commerce with a secure Payment Gateway. 3 tier architecture having database,host server,frontend site. Admin dashboard is also developed to manage e-commerce functions.  
+
 				
   
     Overview of e-commerce website:
