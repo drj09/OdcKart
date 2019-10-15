@@ -6,11 +6,11 @@ Project Description : E-commerce Book Store Based on Business-to-Consumer aspect
 
 
 
-Environment	:	Windows 10, Host server, Web browser
+Environment	    :	Windows 10, Host server, Web browser
 
-Languages/Database	:	PHP, JavaScript, MySQL
+Languages/Database  :	PHP, JavaScript, MySQL
 
-Libraries	:	Bootstrap, JQuery, Font Awesome, Google font APIs
+Libraries	    :	Bootstrap, JQuery, Font Awesome, Google font APIs
 
 
 
@@ -21,6 +21,7 @@ Libraries	:	Bootstrap, JQuery, Font Awesome, Google font APIs
       Login/Register
       Shop Page
       Book details and descriptions
+      Category filter of products
       Managing cart and orders
       Shipping details
       Payment Gateway 
@@ -28,9 +29,9 @@ Libraries	:	Bootstrap, JQuery, Font Awesome, Google font APIs
     Overview of admin dashboard: 
   
       Add new books
-      Delete Books
-      Manage orders and their status
-      Verify Payments details
       Updating stock of books
+      Delete Books
+      Verify Payments details
+      Manage orders and their status
       Generating bills 
       Manage user queries
