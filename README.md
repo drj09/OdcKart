@@ -1,10 +1,13 @@
 # OdcKart - E-commerce website for selling books 
 
-Pre-View Link:- https://odckart.epizy.com
+Pre-View Link :- https://odckart.epizy.com
 
-Project Name: ODCKART(E-Commerce Website)
+Project Name : ODCKART(E-Commerce Website)
+
 Environment	:	Windows 10, Host server, Web browser
+
 Languages/Database	:	PHP, JavaScript, MySQL
+
 Libraries	:	Bootstrap, JQuery, Font Awesome, Google font APIs
 
 
