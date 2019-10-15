@@ -11,6 +11,7 @@ Libraries	:	Bootstrap, JQuery, Font Awesome, Google font APIs
 E-commerce Book Store Based on Business-to-Consumer aspect of e-commerce with a secure Payment Gateway. 3 tier architecture having database,host server,frontend site. Admin dashboard is also developed to manage e-commerce functions.  
 				
   Overview of e-commerce website:
+      
       Login/Register
       Shop Page
       Book details and descriptions
@@ -18,7 +19,8 @@ E-commerce Book Store Based on Business-to-Consumer aspect of e-commerce with a 
       Shipping details
       Payment Gateway 
 
-  Overview of admin dashboard:   
+  Overview of admin dashboard: 
+  
       Add new books
       Delete Books
       Manage orders and their status
